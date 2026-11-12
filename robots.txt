@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /raw/
+Disallow: /tools/
+
+Sitemap: https://gcwebdesigner1-sudo.github.io/paramount-paint/sitemap.xml
